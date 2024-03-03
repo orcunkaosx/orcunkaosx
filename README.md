@@ -1,4 +1,3 @@
-[![MasterHead]([https://www.pinterest.com/pin/708261478893160262/](https://www.google.com/search?sca_esv=781689f199775288&sxsrf=ACQVn09V9E27UQIdtHIfq_Iut4Hj-RXpWg:1709457409396&q=man+pp&tbm=isch&source=lnms&sa=X&ved=2ahUKEwie8JSN4deEAxWbVPEDHVrMCvAQ0pQJegQICxAB&cshid=1709457648517192&biw=1528&bih=750&dpr=1.25#imgrc=bnQYa71-Z4et5M))
 <h1 align="center">Hi 👋, I'm orcunkaosx</h1>
 <h3 align="center">- Python Öğrenme Sürecimi Paylaşıyorum.</h3>
 
