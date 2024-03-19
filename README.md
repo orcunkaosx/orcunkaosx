@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm orcunkaosx</h1>
-<h3 align="center">- Python Öğrenme Sürecimi Paylaşıyorum.</h3>
+<h3 align="center">- Front-end Betimleme Dilini Öğreniyorum.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orcunkaosx&label=Profile%20views&color=0e75b6&style=flat" alt="orcunkaosx" /> </p>
 
-- Python Öğreniyorum **Python**
+- Html/Css - Javascript **Front-End**
 
 <h3 align="left">İletişim:</h3>
 <p align="left">
