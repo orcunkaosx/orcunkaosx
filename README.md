@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Ich bin orcunkaosx</h1>
-<h3 align="center">- Front-End Betimleme Dilini Öğreniyorum.</h3>
+<h3 align="center">- Front-End İşaretleme Dilini Öğreniyorum.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orcunkaosx&label=Profile%20views&color=0e75b6&style=flat" alt="orcunkaosx" /> </p>
 
